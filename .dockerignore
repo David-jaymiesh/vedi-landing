@@ -1,0 +1,14 @@
+.git
+.gitignore
+.DS_Store
+Thumbs.db
+
+.idea
+.vscode
+
+node_modules
+dist
+
+*.log
+*.tmp
+*.swp
